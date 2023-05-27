@@ -8,6 +8,7 @@ HTML elements label pieces of content such as "this is a heading", "this is a pa
 
 This repository is created to show you how the HTML and CSS can basically can create a basic webpage for you!
 
+
 ## StudentDetails (HTML)
 This is a HTML file which shows only the elements and components on the webpage as we code line by line.
 In this .html file I have used some famous tags which are as follows:
@@ -38,4 +39,7 @@ In this .html file I have used some famous tags which are as follows:
       `<input type="submit" value="Submit">`  
   
 5.  Select and Options: The `<select>` tag is an HTML element used to create a dropdown list or a select menu. It allows users to choose an option from a predefined list of options. The `<select>` element is typically paired with `<option>` elements to define the available choices within the dropdown list.
-6.  
+
+### Output
+  
+![image](https://github.com/Shubham-Diwadkar/HTML-CSS/assets/125255910/60cc9fa7-2892-47d5-b00d-a28de2302326)
