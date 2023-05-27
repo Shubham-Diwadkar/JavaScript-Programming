@@ -57,6 +57,8 @@ This is a HTML file which shows not only the elements and components on the webp
   
 4.  Style: The `<style>` tag is an HTML element used to define inline CSS (Cascading Style Sheets) within an HTML document. It allows you to apply specific styles to individual elements or groups of elements without the need for an external CSS file. The `<style>` tag is placed within the `<head>` section of the HTML document. CSS rules and declarations are written inside the `<style>` tag. In this case, we have defined styles for the `<body>`, `<h1>`, and `<p>`, etc.
   
+[NOTE: PLEASE REFFER THE REMAINING TAG DESCRIPTION IN THE ABOVE SECTION "Student Details (HTML).html File" AS THEY ARE ALSO USED IN THIS SECTION]
+  
 ### Output
 ![image](https://github.com/Shubham-Diwadkar/HTML-CSS/assets/125255910/368fe834-0e78-4eeb-8b5d-147145c163af)
 
