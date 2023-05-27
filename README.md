@@ -9,7 +9,7 @@ HTML elements label pieces of content such as "this is a heading", "this is a pa
 This repository is created to show you how the HTML and CSS can basically can create a basic webpage for you!
 
 
-## StudentDetails (HTML)
+## StudentDetails (HTML).html File
 This is a HTML file which shows only the elements and components on the webpage as we code line by line.
 In this .html file I have used some famous tags which are as follows:
 
