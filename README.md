@@ -67,5 +67,9 @@ After Submit button is clicked it will redirect to the specifed webpage the form
 [NOTE: In my case I am redirecting it to Students Details (HTML).html file]
 
 ![image](https://github.com/Shubham-Diwadkar/HTML-CSS/assets/125255910/ffac4606-404b-4906-9dcd-ca9739b5e20f)
+  
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ![Thankyou](https://github.com/Shubham-Diwadkar/HTML-CSS/assets/125255910/317d7bc9-8b63-4ca4-b4c6-c27e9cf7e846)
